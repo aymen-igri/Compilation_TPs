@@ -1,0 +1,13 @@
+<?xml?>
+<repertoire>
+<entree>
+<nom>Dupont</nom>
+<lieu><tel>0123456789</tel></lieu>
+<lieu><tel>9876543210</tel></lieu>
+</entree>
+<entree>
+<nom>Durant</nom>
+<lieu><tel>026813579</tel></lieu>
+<lieu><adrs>12 rue Ada, 35000 Montpellier</adrs></lieu>
+</entree>
+</repertoire>
